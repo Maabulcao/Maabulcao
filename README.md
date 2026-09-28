@@ -17,8 +17,13 @@
 - Cybersecurity Journey
  
 ## Technologies
- 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&s&logoColor=white ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=oColor=black ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=logo=powershell&logoColor=white ![Python](https://img.shields.io/badge/Pythonyle=for-the-badge&logo=python&logoColor=white ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor
+ 
+- Windows
+- Linux
+- Active Directory
+- PowerShell
+- Git
+- Python  
 
 ## Areas of Interest
  
