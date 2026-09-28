@@ -1,16 +1,59 @@
-## Hi there 👋
+# Olá, eu sou Marcela Bulcão 👋
+ 
+💻 Analista de Suporte e Infraestrutura
+ 
+🔒 Em transição para Cybersecurity
+ 
+📚 Atualmente estudando:
+- Redes
+- Active Directory
+- Windows Security
+- PowerShell
+- SOC Analyst
+- Python
+ 
+## Projetos
 
-<!--
-**Maabulcao/Maabulcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Cybersecurity Journey
+ 
+## Tecnologias
+ 
+- Windows
+- Linux 
+- Active Directory
+- PowerShell
+- Git
+- Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+ 
+# Hi, I'm Marcela Bulcão 👋
+ 
+💻 IT Support and Infrastructure Analyst
+ 
+🔒 Transitioning into Cybersecurity
+ 
+📚 Currently studying:
+- Networking
+- Active Directory
+- Windows Security
+- PowerShell
+- SOC Operations
+- Python
+ 
+## Projects
+ 
+- Cybersecurity Journey
+ 
+## Technologies
+ 
+- Windows
+- Linux
+- Active Directory
+- PowerShell
+- Git
+- Python
+ 
+## Career Goal
+ 
+I am an IT Support and Infrastructure professional transitioning into Cybersecurity. My interests include SOC operations, Blue Team activities, Windows Security, Active Directory Security, and automation with PowerShell and Python.
